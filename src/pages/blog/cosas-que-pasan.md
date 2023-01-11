@@ -2,7 +2,7 @@
 layout: ../layouts/BlogPost.astro
 title: Cosas que pasan
 publishDate: 2023-01-10T23:15:00.327Z
-heroImage: https://images.gestionaweb.cat/743/pimg-1600-1600/endurodos.jpg
+heroImage: 
 description: Lorem Ipsum is simply dummy text of the printing and typesetting
   industry. Lorem Ipsum has been the industry's standard dummy text ever since
   the 1500s, when an unknown printer took a galley
